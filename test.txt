@@ -1,0 +1,4 @@
+git config --global user.name “Erik Öberg”
+
+
+git config --global user.email “erik.oberg@miun.se”
