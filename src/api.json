@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "country_currency_desc": "Canada-Dollar",
+      "exchange_rate": "1.426",
+      "record_date": "2020-03-31"
+    },
+    {
+      "country_currency_desc": "Canada-Dollar",
+      "exchange_rate": "1.26",
+      "record_date": "2021-03-31"
+    },
+    {
+      "country_currency_desc": "Canada-Dollar",
+      "exchange_rate": "1.275",
+      "record_date": "2020-12-31"
+    },
+    {
+      "country_currency_desc": "Canada-Dollar",
+      "exchange_rate": "1.368",
+      "record_date": "2020-06-30"
+    },
+    {
+      "country_currency_desc": "Canada-Dollar",
+      "exchange_rate": "1.239",
+      "record_date": "2021-06-30"
+    },
+    {
+      "country_currency_desc": "Canada-Dollar",
+      "exchange_rate": "1.338",
+      "record_date": "2020-09-30"
+    },
+    {
+      "country_currency_desc": "Mexico-Peso",
+      "exchange_rate": "19.913",
+      "record_date": "2020-12-31"
+    },
+    {
+      "country_currency_desc": "Mexico-Peso",
+      "exchange_rate": "23.791",
+      "record_date": "2020-03-31"
+    },
+    {
+      "country_currency_desc": "Mexico-Peso",
+      "exchange_rate": "23.164",
+      "record_date": "2020-06-30"
+    },
+    {
+      "country_currency_desc": "Mexico-Peso",
+      "exchange_rate": "20.067",
+      "record_date": "2020-09-30"
+    },
+    {
+      "country_currency_desc": "Mexico-Peso",
+      "exchange_rate": "20.518",
+      "record_date": "2021-03-31"
+    },
+    {
+      "country_currency_desc": "Mexico-Peso",
+      "exchange_rate": "19.838",
+      "record_date": "2021-06-30"
+    }
+  ],
+  "meta": {
+    "count": 12,
+    "labels": {
+      "country_currency_desc": "Country-CurrencyDescription",
+      "exchange_rate": "ExchangeRate",
+      "record_date": "RecordDate"
+    },
+    "dataTypes": {
+      "country_currency_desc": "STRING",
+      "exchange_rate": "NUMBER",
+      "record_date": "DATE"
+    },
+    "dataFormats": {
+      "country_currency_desc": "String",
+      "exchange_rate": "10.2",
+      "record_date": "YYYY-MM-DD"
+    },
+    "total-count": 12,
+    "total-pages": 1
+  },
+  "links": {
+    "self": "&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+    "first": "&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+    "prev": null,
+    "next": null,
+    "last": "&page%5Bnumber%5D=1&page%5Bsize%5D=100"
+  }
+}

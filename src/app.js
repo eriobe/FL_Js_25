@@ -1,4 +1,41 @@
-console.log("allt fungerar");
+import { fetchGistAirports } from "./fetch.js";
+import { AIRPORTS } from "./airports.db.js";
+
+const airports = await fetchGistAirports();
+console.table(airports);
+
+function maxElevation() {
+  let elevation = 0;
+
+  for (const apt of airports) {
+    if (apt.elevationM > elevation) {
+      elevation = apt.elevationM;
+    }
+  }
+  return elevation;
+}
+
+function getName(firstname, lastname) {
+  if (!firstname) return lastname;
+  return lastname;
+}
+
+const name = getName("Erik");
+console.log(name);
+function maxElevation2() {
+  let elevation = 0;
+
+  for (const apt of AIRPORTS) {
+    if (apt.elevationM > elevation) {
+      elevation = apt.elevationM;
+    }
+  }
+  return AIRPORTS.filter((a) => a.elevationM == elevation);
+}
+
+const elevation = maxElevation2();
+console.log(elevation);
+/*console.log("allt fungerar");
 
 // variabler
 // nej inte var
