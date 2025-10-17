@@ -15,6 +15,10 @@ function maxElevation() {
   return elevation;
 }
 
+function avgPassengersPerFlight(airport) {
+  return airport.passengersPerYear / airport.flightsPerYear;
+}
+
 function getName(firstname, lastname) {
   if (!firstname) return lastname;
   return lastname;
@@ -24,15 +28,27 @@ const name = getName("Erik");
 console.log(name);
 function maxElevation2() {
   let elevation = 0;
-
+  let avg = 0;
   for (const apt of AIRPORTS) {
     if (apt.elevationM > elevation) {
       elevation = apt.elevationM;
+      avg = avgPassengersPerFlight(apt);
     }
   }
   return AIRPORTS.filter((a) => a.elevationM == elevation);
 }
 
+// MAP ger mig en kopia!
+function getAvgPassengers() {
+  return AIRPORTS.map((a) => ({
+    name: a.name,
+    iata: a.iata,
+    avgPassengersPerFlight: avgPassengersPerFlight(a).toFixed(1),
+  }));
+}
+
+let data = getAvgPassengers();
+console.table(data);
 const elevation = maxElevation2();
 console.log(elevation);
 /*console.log("allt fungerar");

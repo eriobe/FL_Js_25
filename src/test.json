@@ -1,0 +1,569 @@
+{
+  "data": [
+    {
+      "imdb_id": "tt0103480",
+      "media_type": "TVSeries",
+      "title": "Lotta på Bråkmakargatan",
+      "overview": "",
+      "tagline": "",
+      "poster_path": "/wYnalFHL8zdoOFiu1SGBesw2vuH.jpg",
+      "backdrop_path": "/n0QjzUemn7WjHbr3Np8lRlVB0QV.jpg",
+      "release_date": null,
+      "first_air_date": "1995-01-07",
+      "last_air_date": "1996-05-04",
+      "cmdb_score": 4.666666666666667,
+      "contribution": {
+        "imdb_id": "tt0103480",
+        "has_reviewed": true,
+        "has_rated": false,
+        "title": "Älskade Astrid",
+        "content": "en klassiker värd att ses. Många gånger",
+        "cmdb_score": 5,
+        "contribution_date": "2025-09-23"
+      },
+      "genres": [
+        {
+          "id": 10751,
+          "name": "Familj"
+        },
+        {
+          "id": 10762,
+          "name": "Kids"
+        }
+      ],
+      "top_actors": [
+        {
+          "id": 116510,
+          "name": "Margreth Weivers",
+          "character": "Tante Berg",
+          "profile_path": "/lNVbcqOH7Haw4ytRUIDPi48G6Nw.jpg",
+          "order": 0,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 98315,
+          "name": "Linn Gloppestad",
+          "character": "Mia",
+          "profile_path": "/zoIF1tDmjy0HSilde6Pg9wJ1jQQ.jpg",
+          "order": 1,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 82326,
+          "name": "Grete Havnesköld",
+          "character": "Lotta",
+          "profile_path": "/vQxqvksMEPW5PpfZ8ONswn6mwJ7.jpg",
+          "order": 2,
+          "primary_role": "Acting"
+        }
+      ]
+    },
+    {
+      "imdb_id": "tt1733785",
+      "media_type": "TVSeries",
+      "title": "Bron/Broen",
+      "overview": "Bron, dansk titel Broen, är en svensk-dansk kriminalserie från 2011, som började sändas i Sveriges Television den 21 september 2011. Hans Rosenfeldt har skrivit manus efter en idé i samarbete med Måns Mårlind och Björn Stein. Sofia Helin och Kim Bodnia spelade huvudrollerna i de två första säsongerna, i den tredje och fjärde är Sofia Helin fortsatt huvudroll. Serien har fyra säsonger varav den sista sänds i början av 2018.",
+      "tagline": "",
+      "poster_path": "/ieZK3u4tumJB7KJsWN0nzdofvn8.jpg",
+      "backdrop_path": "/7nX2uLLaVnFUR6azLDXQsjQBQvI.jpg",
+      "release_date": null,
+      "first_air_date": "2011-09-21",
+      "last_air_date": "2018-02-18",
+      "cmdb_score": 4.2,
+      "contribution": null,
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 80,
+          "name": "Kriminal"
+        },
+        {
+          "id": 9648,
+          "name": "Mystik"
+        }
+      ],
+      "top_actors": [
+        {
+          "id": 55885,
+          "name": "Sofia Helin",
+          "character": "Saga Norén",
+          "profile_path": "/aOzrZ51r9sPAE8sJvQm2LuZ3hYc.jpg",
+          "order": 0,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 20258,
+          "name": "Thure Lindhardt",
+          "character": "Henrik Sabroe",
+          "profile_path": "/lDkRe6dlQoiehjay8pEP2WLU4qG.jpg",
+          "order": 1,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 228218,
+          "name": "Mikael Birkkjær",
+          "character": "Jonas",
+          "profile_path": "/mAKWxBOuLkNtRZj8UtnLUK2O3RV.jpg",
+          "order": 3,
+          "primary_role": "Acting"
+        }
+      ]
+    },
+    {
+      "imdb_id": "tt0098924",
+      "media_type": "TVSeries",
+      "title": "Luftens hjältar",
+      "overview": "Platsen är staden Kap Suzette under vad som huvudsakligen tycks vara 1930-talet. Baloo är här en fraktpilot som finner större nöje i att slappa och ta det lugnt än att arbeta. Louie driver en bar belägen på en ö utanför kusten och Shere Khan är Kap Suzettes dominerande affärsman och en kapitalist helt i tidens anda. Persongalleriet kompletteras av en rad nyskapade figurer, däribland den unge föräldralöse Ville Virvel, mekanikern Vildkatt som kan laga allt men som i övrigt är minst sagt trögtänkt, den teatraliska luftpiraten Don Karnage, den affärsinriktade Rebecca Cunningham (som är Baloos chef) och hennes dotter Molly.",
+      "tagline": "",
+      "poster_path": "/tRetDCOAjBvTRKqVy2ySO0BrqX6.jpg",
+      "backdrop_path": "/pxMzrCToVhp0VEyNFh1JZMVxJ2M.jpg",
+      "release_date": null,
+      "first_air_date": "1990-09-09",
+      "last_air_date": "1991-08-08",
+      "cmdb_score": 4,
+      "contribution": null,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animerat"
+        },
+        {
+          "id": 10751,
+          "name": "Familj"
+        },
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 10762,
+          "name": "Kids"
+        }
+      ],
+      "top_actors": [
+        {
+          "id": 35243,
+          "name": "Ed Gilbert",
+          "character": "Baloo (voice)",
+          "profile_path": "/uuyoM4Bo3zzmsDoOPzr5JeJaMdE.jpg",
+          "order": 0,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 49352,
+          "name": "Sally Struthers",
+          "character": "Rebecca Cunningham (voice)",
+          "profile_path": "/9EeuFTEUG1mfPiZwNw38U3ovUa.jpg",
+          "order": 1,
+          "primary_role": "Acting"
+        }
+      ]
+    },
+    {
+      "imdb_id": "tt0115369",
+      "media_type": "TVSeries",
+      "title": "Spin City",
+      "overview": "Arbetsnarkoman Mike Flaherty är vice borgmästare i New York City, och fungerar som borgmästare Randall Winstons nyckelstrateg och välbehövliga hanterare. Mike driver staden med hjälp av sin udda personal: en orolig och osäker pressekreterare; en sexistisk, busig stabschef; en oklanderligt välvårdad gayaktivist som driver minoritetsaffärer; en skarp och effektiv, man-galen revisor; och en idealistisk ung talskrivare. Precis som Mike är de alla professionellt kapabla men personligen utmanade.",
+      "tagline": "",
+      "poster_path": "/iuBzOwnUNyce4KVnCDXphFOzv6i.jpg",
+      "backdrop_path": "/eyi5tMbK6fRtXNFffUTIhRiX0LT.jpg",
+      "release_date": null,
+      "first_air_date": "1996-09-17",
+      "last_air_date": "2002-04-30",
+      "cmdb_score": 4,
+      "contribution": null,
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 35,
+          "name": "Komedi"
+        }
+      ],
+      "top_actors": [
+        {
+          "id": 6952,
+          "name": "Charlie Sheen",
+          "character": "Charlie Crawford",
+          "profile_path": "/eHMe0jYsp6YBgyCDbgtheZrIHAy.jpg",
+          "order": 0,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 58691,
+          "name": "Heather Locklear",
+          "character": "Caitlin Moore",
+          "profile_path": "/rIvuZwIMRkwSVGMza7Tm2yBXD5g.jpg",
+          "order": 1,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 21125,
+          "name": "Richard Kind",
+          "character": "Paul Lassiter",
+          "profile_path": "/yWmuVQeQUzb5OSMVDoWkR0IylCK.jpg",
+          "order": 2,
+          "primary_role": "Acting"
+        }
+      ]
+    },
+    {
+      "imdb_id": "tt0185906",
+      "media_type": "TVSeries",
+      "title": "Band of Brothers",
+      "overview": "Drawn from interviews with survivors of Easy Company, as well as their journals and letters, Band of Brothers chronicles the experiences of these men from paratrooper training in Georgia through the end of the war. As an elite rifle company parachuting into Normandy early on D-Day morning, participants in the Battle of the Bulge, and witness to the horrors of war, the men of Easy knew extraordinary bravery and extraordinary fear - and became the stuff of legend. Based on Stephen E. Ambrose's acclaimed book of the same name.",
+      "tagline": "There was a time when the world asked ordinary men to do extraordinary things.",
+      "poster_path": "/8JMXquNmdMUy2n2RgW8gfOM0O3l.jpg",
+      "backdrop_path": "/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
+      "release_date": null,
+      "first_air_date": "2001-09-09",
+      "last_air_date": "2001-11-04",
+      "cmdb_score": 4,
+      "contribution": null,
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 10768,
+          "name": "War & Politics"
+        }
+      ],
+      "top_actors": [
+        {
+          "id": 20186,
+          "name": "Damian Lewis",
+          "character": "Richard D. Winters",
+          "profile_path": "/qm4M15FTUmuf1j8Kp3M7p0LaqC2.jpg",
+          "order": 0,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 2680,
+          "name": "Donnie Wahlberg",
+          "character": "C. Carwood Lipton",
+          "profile_path": "/fu9max9xWGUxECQNIkUYmCBS2ZF.jpg",
+          "order": 1,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 14409,
+          "name": "David Schwimmer",
+          "character": "Herbert Sobel",
+          "profile_path": "/XtKzJ9lM5Xwa7vCmE4xNHy6Owf.jpg",
+          "order": 2,
+          "primary_role": "Acting"
+        }
+      ]
+    },
+    {
+      "imdb_id": "tt0411008",
+      "media_type": "TVSeries",
+      "title": "Lost",
+      "overview": "Stripped of everything, the survivors of a horrific plane crash  must work together to stay alive. But the island holds many secrets.",
+      "tagline": "Everything happens for a reason.",
+      "poster_path": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+      "backdrop_path": "/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+      "release_date": null,
+      "first_air_date": "2004-09-22",
+      "last_air_date": "2010-05-23",
+      "cmdb_score": 3.857142857142857,
+      "contribution": null,
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 9648,
+          "name": "Mystik"
+        },
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        }
+      ],
+      "top_actors": [
+        {
+          "id": 28657,
+          "name": "Matthew Fox",
+          "character": "Jack Shephard",
+          "profile_path": "/ynb8OvZI4tkoPyovbmtm3HxwvUV.jpg",
+          "order": 0,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 19034,
+          "name": "Evangeline Lilly",
+          "character": "Kate Austen",
+          "profile_path": "/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg",
+          "order": 1,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 12646,
+          "name": "Terry O'Quinn",
+          "character": "John Locke",
+          "profile_path": "/kSweOGPprLe1vDvu38wJQaWIih7.jpg",
+          "order": 2,
+          "primary_role": "Acting"
+        }
+      ]
+    },
+    {
+      "imdb_id": "tt7366338",
+      "media_type": "TVSeries",
+      "title": "Chernobyl",
+      "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
+      "tagline": "What is the cost of lies?",
+      "poster_path": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "backdrop_path": "/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
+      "release_date": null,
+      "first_air_date": "2019-05-06",
+      "last_air_date": "2019-06-03",
+      "cmdb_score": 3.7777777777777777,
+      "contribution": {
+        "imdb_id": "tt7366338",
+        "has_reviewed": true,
+        "has_rated": false,
+        "title": "otäck",
+        "content": "på många sätt",
+        "cmdb_score": 5,
+        "contribution_date": "2024-09-26"
+      },
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "top_actors": [
+        {
+          "id": 15440,
+          "name": "Jared Harris",
+          "character": "Valery Legasov",
+          "profile_path": "/8GvXtLomIdCjROjlwKQYURKJwIq.jpg",
+          "order": 0,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 1640,
+          "name": "Stellan Skarsgård",
+          "character": "Boris Shcherbina",
+          "profile_path": "/x78BtYHElirO7Iw8bL4m8CnzRDc.jpg",
+          "order": 1,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 1639,
+          "name": "Emily Watson",
+          "character": "Ulana Khomyuk",
+          "profile_path": "/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg",
+          "order": 2,
+          "primary_role": "Acting"
+        }
+      ]
+    },
+    {
+      "imdb_id": "tt0131613",
+      "media_type": "TVSeries",
+      "title": "Teenage Mutant Ninja Turtles",
+      "overview": "Four turtles fall into the sewers and are befriended by Hamato Yoshi a Japanese man sent to New York who was forced to live in the sewers. One day he sees a strange green glow which transforms the four turtles into human-like creatures. Hamato (now Master Splinter) changes into a giant rat from the green glow and teaches the turtles the skills of the ninja as they team up with news reporter April O'Neil to battle against Yoshi's arch enemy Shredder and Krang, an alien warlord from Dimension X.",
+      "tagline": "",
+      "poster_path": "/AaihPizftZo5YCqzEgHMwkceaEo.jpg",
+      "backdrop_path": "/mXCEcnqzbu49DRGvRJPgKGJPcoM.jpg",
+      "release_date": null,
+      "first_air_date": "1987-12-14",
+      "last_air_date": "1996-11-02",
+      "cmdb_score": 3.7142857142857144,
+      "contribution": null,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animerat"
+        },
+        {
+          "id": 35,
+          "name": "Komedi"
+        },
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 10762,
+          "name": "Kids"
+        }
+      ],
+      "top_actors": [
+        {
+          "id": 60272,
+          "name": "Cam Clarke",
+          "character": "Leonardo (voice)",
+          "profile_path": "/hScRMNVHAFge06mOfFEauKcthtO.jpg",
+          "order": 0,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 103725,
+          "name": "Barry Gordon",
+          "character": "Donatello (voice)",
+          "profile_path": "/eVEEAykXPyX7wP01GzCTtejShQx.jpg",
+          "order": 1,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 35035,
+          "name": "Townsend Coleman",
+          "character": "Michaelangelo (voice)",
+          "profile_path": "/aMVAo35uihg08G8uc4Q4FiAS5ku.jpg",
+          "order": 2,
+          "primary_role": "Acting"
+        }
+      ]
+    },
+    {
+      "imdb_id": "tt17491088",
+      "media_type": "TVSeries",
+      "title": "The Diplomat",
+      "overview": "In the midst of an international crisis, a career diplomat lands in a high-profile job she’s unsuited for, with tectonic implications for her marriage and her political future.",
+      "tagline": "Keep your friends close. Keep your enemies closer.",
+      "poster_path": "/cOKXV0FalCYixNmZYCfHXgyQ0VX.jpg",
+      "backdrop_path": "/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+      "release_date": null,
+      "first_air_date": "2023-04-20",
+      "last_air_date": "2024-10-31",
+      "cmdb_score": 3.6666666666666665,
+      "contribution": null,
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 10768,
+          "name": "War & Politics"
+        }
+      ],
+      "top_actors": [
+        {
+          "id": 41292,
+          "name": "Keri Russell",
+          "character": "Ambassador Kate Wyler",
+          "profile_path": "/u81mC6vZwliDRfnX1DpdGmmex61.jpg",
+          "order": 0,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 17328,
+          "name": "Rufus Sewell",
+          "character": "Hal Wyler",
+          "profile_path": "/yc2EWyg45GO03YqDttaEhjvegiE.jpg",
+          "order": 1,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 55411,
+          "name": "David Gyasi",
+          "character": "Foreign Secretary Austin Dennison",
+          "profile_path": "/4Kj6BI2Ki6tpAVzc4S6lh1Xzua3.jpg",
+          "order": 2,
+          "primary_role": "Acting"
+        }
+      ]
+    },
+    {
+      "imdb_id": "tt31510819",
+      "media_type": "TVSeries",
+      "title": "MobLand",
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "tagline": "",
+      "poster_path": "/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg",
+      "backdrop_path": "/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+      "release_date": null,
+      "first_air_date": "2025-03-30",
+      "last_air_date": "2025-06-01",
+      "cmdb_score": 3.6666666666666665,
+      "contribution": {
+        "imdb_id": "tt31510819",
+        "has_reviewed": true,
+        "has_rated": false,
+        "title": "Spännande",
+        "content": "Den här filmen har en del filmgodis",
+        "cmdb_score": 1,
+        "contribution_date": "2025-09-23"
+      },
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        },
+        {
+          "id": 80,
+          "name": "Kriminal"
+        }
+      ],
+      "top_actors": [
+        {
+          "id": 2524,
+          "name": "Tom Hardy",
+          "character": "Harry Da Souza",
+          "profile_path": "/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg",
+          "order": 0,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 517,
+          "name": "Pierce Brosnan",
+          "character": "Conrad Harrigan",
+          "profile_path": "/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg",
+          "order": 1,
+          "primary_role": "Acting"
+        },
+        {
+          "id": 14887,
+          "name": "Paddy Considine",
+          "character": "Kevin Harrigan",
+          "profile_path": "/uIKOm4w2wtUegxratSHj2KPFF7i.jpg",
+          "order": 2,
+          "primary_role": "Acting"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "total_records": 54,
+    "current_page": 1,
+    "offset": 0,
+    "page_size": 10,
+    "count": 10
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://api.dsvkurs.miun.se/api/Toplists/top-rated-series?pageNumber=1&pageSize=10&sortBy=&sortDirection=&offset=0"
+    },
+    {
+      "rel": "first",
+      "href": "https://api.dsvkurs.miun.se/api/Toplists/top-rated-series?pageNumber=1&pageSize=10&sortBy=&sortDirection=&offset=0"
+    },
+    {
+      "rel": "previous",
+      "href": null
+    },
+    {
+      "rel": "next",
+      "href": "https://api.dsvkurs.miun.se/api/Toplists/top-rated-series?pageNumber=2&pageSize=10&sortBy=&sortDirection=&offset=0"
+    },
+    {
+      "rel": "last",
+      "href": "https://api.dsvkurs.miun.se/api/Toplists/top-rated-series?pageNumber=6&pageSize=10&sortBy=&sortDirection=&offset=0"
+    }
+  ]
+}
