@@ -48,6 +48,7 @@ function getAvgPassengers() {
 }
 
 let data = getAvgPassengers();
+
 console.table(data);
 const elevation = maxElevation2();
 console.log(elevation);
